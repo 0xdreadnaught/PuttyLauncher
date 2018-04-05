@@ -1,0 +1,1 @@
+start "" powershell -Command ".\puttyLauncher.ps1 batch"

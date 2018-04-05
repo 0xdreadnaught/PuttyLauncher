@@ -1,0 +1,4 @@
+UID,SITE,NAME,FLAG,IPADDR,USER,PASS
+Example Below:
+1,Boston,RHEL6 - Dedicated [gdbos101],,1.2.3.4,brian,abc123
+
